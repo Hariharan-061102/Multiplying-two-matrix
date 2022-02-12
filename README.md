@@ -5,10 +5,19 @@
 ## ALGORITHM:
 
 ### Step 1:
+Start python program.
+
 ### Step 2:
+Import numpy and Create two empty lists.
+
 ### Step 3:
+Get two matrices from the user using append.
+
 ### Step 4:
+Multipy the two matrices.
+
 ### Step 5:
+Display the result.
 
 ## PROGRAM: 
 ~~~
@@ -31,4 +40,4 @@ print("Product of two arrays is:",product)
 ![output](mult.png)
 
 ## RESULT:
-
+A python program for Multipying two matrices has been created successfully.
